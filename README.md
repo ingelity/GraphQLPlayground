@@ -1,4 +1,4 @@
-# GraphQlPlayground
+# GraphQLPlayground
 
 ## Setup
 ```
