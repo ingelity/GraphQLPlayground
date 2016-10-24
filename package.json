@@ -7,7 +7,7 @@
     "start": "nodemon server.js"
   },
   "author": "ingelity",
-  "license": "UNLICENCED",
+  "license": "MIT",
   "dependencies": {
     "express": "4.14.0",
     "express-graphql": "0.5.4",
