@@ -1,0 +1,16 @@
+{
+  "name": "GraphQLPlayground",
+  "version": "1.0.0",
+  "description": "GraphQL playground",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "ingelity",
+  "license": "UNLICENCED",
+  "dependencies": {
+    "express": "4.14.0",
+    "express-graphql": "0.5.4",
+    "graphql": "0.7.2"
+  }
+}

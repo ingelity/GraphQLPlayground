@@ -1,0 +1,19 @@
+#headline {
+  font-style: italic;
+  color: #555;
+  margin-bottom: 10px;
+}
+
+#query {
+  resize: none;
+  width: 45%;
+  height: 300px;
+}
+
+#response {
+  display: inline-block;
+  padding: 10px;
+  height: 300px;
+  width: 50%;
+  vertical-align: top;
+}
